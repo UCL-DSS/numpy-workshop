@@ -23,6 +23,8 @@ Structure:
         ├── What is Numpy
         ├── Numpy arrays
         ├── Mathematical operations
-        └── Random numbers
+        ├── Random Numbers
+        ├── Complex Numbers
+        └── Matrix operations
 
 ```
